@@ -1,0 +1,23 @@
+{
+  "name": "temp",
+  "version": "1.0.0",
+  "description": "temporary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivam-singh6110/temp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivam-singh6110/temp/issues"
+  },
+  "homepage": "https://github.com/shivam-singh6110/temp#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
